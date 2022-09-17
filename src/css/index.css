@@ -1,0 +1,6 @@
+@import './global.css';
+
+@import './blocks/container/container.css';
+@import './blocks/container/_content/container_content_center.css';
+
+@import './blocks/phone/phone.css';

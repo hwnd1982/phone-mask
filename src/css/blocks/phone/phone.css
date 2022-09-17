@@ -1,0 +1,7 @@
+.phone {
+  padding: 30px 50px;
+  background-color: lightblue;
+  border-radius: 15px;
+  display: flex;
+  gap: 15px
+}
